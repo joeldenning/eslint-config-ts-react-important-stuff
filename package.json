@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ts-react-important-stuff",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "An eslint config for important stuff in react / typescript projects",
   "main": "eslint-config-ts-react-important-stuff.js",
   "scripts": {},
