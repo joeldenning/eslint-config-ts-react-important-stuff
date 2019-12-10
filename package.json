@@ -15,6 +15,6 @@
   },
   "homepage": "https://github.com/joeldenning/eslint-config-ts-react-important-stuff#readme",
   "dependencies": {
-    "eslint-config-react-important-stuff": "^1.2.2"
+    "eslint-config-react-important-stuff": "^2.0.0"
   }
 }

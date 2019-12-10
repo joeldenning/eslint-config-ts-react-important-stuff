@@ -85,10 +85,10 @@ eslint-config-important-stuff@^1.1.0:
   resolved "https://registry.yarnpkg.com/eslint-config-important-stuff/-/eslint-config-important-stuff-1.1.0.tgz#f7ed8c33216964faf680f8969dfe0b196c84e6e2"
   integrity sha512-CsV6QFsjNDTZTDEgE1XxhTKph4YJUh5XFMdsWv3p+9DuMyvfy40fsnZiwqXZHBVEUNMHf+zfPGk6s6b4fS9Erw==
 
-eslint-config-react-important-stuff@^1.2.2:
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/eslint-config-react-important-stuff/-/eslint-config-react-important-stuff-1.2.2.tgz#78470f2ba7379a60ad31e0679eebe2fe4a112ef9"
-  integrity sha512-a+KWCmTuUadktzet9jLr1zJL+03oNLCcXWKxvr+xGYaqSsGvF5w5J8GzNDDsr5wcmrxhcudcD7j3omeHiy5RJg==
+eslint-config-react-important-stuff@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-react-important-stuff/-/eslint-config-react-important-stuff-2.0.0.tgz#7eb96fdbbc7739113eec6565a0316091cc4cd99b"
+  integrity sha512-xXQYqzt0W2mDdsLW049ekn9OkHvQsutRFC/H9g7mOcK8MF+BNWUIanfkGcUD1wSBbXBiczgEs7zV/JzxzRM1UA==
   dependencies:
     eslint-config-important-stuff "^1.1.0"
     eslint-plugin-jsx-a11y "^6.2.3"
